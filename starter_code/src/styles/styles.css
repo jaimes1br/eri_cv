@@ -1,0 +1,91 @@
+
+.fondo{
+ 
+    /* background: linear-gradient(0.25turn, #d9d9d9, #284b63); */
+    /* background: linear-gradient(0.25turn, #889696, #d2d4c8, #889696); */
+    background: radial-gradient(circle at top left, #d2d4c8, #889696);
+}
+
+.homeNav{
+    color: #eb5e28;    
+}
+
+.description{
+    color: #403d39;
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 18px;
+}
+
+.refANaranja{
+    color: #fff;
+    background-color: #eb5e28;
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 15px;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: #eb5e28 2px solid;
+    padding: 5px 10px;
+}
+
+.refATrasparente{
+    color: #eb5e28;
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 15px;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: #eb5e28 2px solid;
+    padding: 5px 10px;
+}
+
+.tituloProyecto{
+    color: #fff;
+    background-color: #eb5e28;
+    font-family: 'Red Hat Display', sans-serif;
+    padding: 5px 10px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;   
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: larger;
+    font-weight: bold;
+}
+
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    color: #403d39;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+h2,h3{
+    color: #eb5e28;
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+h3{
+    color: #252422;
+    font-size: 20px;
+}
+
+p{
+    color: #403d39;
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 25px;
+}
+
+p a{
+    color: #403d39;
+    text-decoration: none;
+}
+
